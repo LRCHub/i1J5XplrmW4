@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "愛のことば",
+  "base_artist": "indigo la End",
+  "createdAt": "2025-12-15T14:04:59.971609Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛のことば",
+      "artist": "Kumi Koda",
+      "has_synced": false,
+      "path": "select/01_愛のことば_Kumi_Koda.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛のことば",
+      "artist": "Koda Kumi",
+      "has_synced": false,
+      "path": "select/02_愛のことば_Koda_Kumi.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛のことば",
+      "artist": "SPITZ",
+      "has_synced": false,
+      "path": "select/03_愛のことば_SPITZ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛のことば",
+      "artist": "スピッツ",
+      "has_synced": false,
+      "path": "select/04_愛のことば_スピッツ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "愛のことば - 2014mix",
+      "artist": "SPITZ",
+      "has_synced": true,
+      "path": "select/05_愛のことば_-_2014mix_SPITZ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "愛のことば -2014mix-",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/06_愛のことば_-2014mix-_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "愛のことば -2014mix-",
+      "artist": "Spitz",
+      "has_synced": true,
+      "path": "select/07_愛のことば_-2014mix-_Spitz.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "愛のことば-2014mix-",
+      "artist": "スピッツ",
+      "has_synced": true,
+      "path": "select/08_愛のことば-2014mix-_スピッツ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "愛のことば [AILI's Warmy Remix]",
+      "artist": "倖田來未",
+      "has_synced": false,
+      "path": "select/09_愛のことば_[AILI's_Warmy_Remix]_倖田來未.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛のことば",
+      "artist": "indigo la End",
+      "has_synced": false,
+      "path": "select/pl_01_愛のことば_indigo_la_End.txt"
+    }
+  ]
+}
